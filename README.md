@@ -12,6 +12,13 @@ This project demonstrates how IoT technology can support remote health data moni
 
 **Note:** This project is intended for educational and demonstration purposes and is not a medical diagnostic device.
 
+Project Links:
+https://www.hackster.io/yuvansris2002/heart-rate-analyze-using-nodemcu-esp8266-and-kiwisiot-11af0c
+
+learn morn:
+
+https://github.com/Kiwistron/KiwisIoT-Projects
+
 ## 🌐 Explore KiwisIoT
 
 Want to build your own IoT projects?
@@ -21,5 +28,3 @@ Visit [**KiwisIoT – https://www.kiwisiot.in/**](https://www.kiwisiot.in/) to e
 **Build. Connect. Monitor. Innovate with KiwisIoT!**
 
 ---
-
-\<p align="center">   \<b>NodeMCU ESP8266 | IoT | Heart Rate Monitoring | Health Data Visualization | Connected with KiwisIoT\</b> \</p>
